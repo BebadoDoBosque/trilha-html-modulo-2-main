@@ -70,3 +70,7 @@ section {
     width: 15%;
     height: fit-content;
 }
+
+.textarea {
+    float: left;
+}
