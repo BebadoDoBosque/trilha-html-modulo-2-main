@@ -1,0 +1,8 @@
+table thead th {
+    background-color: black;
+    color: white;
+}
+
+table td {
+    text-align: center;
+}
