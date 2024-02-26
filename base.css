@@ -64,6 +64,7 @@ section {
     color: white;
     padding: 20px;
     padding-top: 0;
+    display: flex;
 }
 
 .img-width {
@@ -73,4 +74,8 @@ section {
 
 .textarea {
     float: left;
+}
+
+.footer .form {
+    padding-top: 50px;
 }
