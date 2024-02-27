@@ -79,3 +79,8 @@ section {
 .footer .form {
     padding-top: 50px;
 }
+
+.iframe {
+    padding-left: 160px;
+    margin: 20px;
+}
